@@ -1,0 +1,15 @@
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\access modifiers private.csproj.AssemblyReference.cache
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\access modifiers private.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\access modifiers private.AssemblyInfoInputs.cache
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\access modifiers private.AssemblyInfo.cs
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\access modifiers private.csproj.CoreCompileInputs.cache
+D:\c# code\access modifiers private\access modifiers private\bin\Debug\net6.0\access modifiers private.exe
+D:\c# code\access modifiers private\access modifiers private\bin\Debug\net6.0\access modifiers private.deps.json
+D:\c# code\access modifiers private\access modifiers private\bin\Debug\net6.0\access modifiers private.runtimeconfig.json
+D:\c# code\access modifiers private\access modifiers private\bin\Debug\net6.0\access modifiers private.dll
+D:\c# code\access modifiers private\access modifiers private\bin\Debug\net6.0\access modifiers private.pdb
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\access modifiers private.dll
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\refint\access modifiers private.dll
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\access modifiers private.pdb
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\access modifiers private.genruntimeconfig.cache
+D:\c# code\access modifiers private\access modifiers private\obj\Debug\net6.0\ref\access modifiers private.dll
